@@ -1,0 +1,2 @@
+# learning-course
+tanulás, gyakorlás
